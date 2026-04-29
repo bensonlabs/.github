@@ -1,4 +1,4 @@
-# BensonLabs
+# bensonlabs
 
 Applied systems, infrastructure, and practical engineering work.
 
@@ -6,9 +6,9 @@ This organization is used to manage personal infrastructure, homelab environment
 
 ## Focus Areas
 
-- Containerized infrastructure (Docker, Compose)
+- Containerized infrastructure (Docker/Podman Compose)
 - Endpoint management workflows (Intune, JAMF)
-- Local AI systems and experimentation
+- Local AI + OpenWebUI systems and experimentation
 - Small-scale service architecture
 
 ## Philosophy

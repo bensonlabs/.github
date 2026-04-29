@@ -16,4 +16,5 @@ This organization is used to manage personal infrastructure, homelab environment
 
 Building systems that can be rebuilt.
 
-### Practice: Avoid throwaway work. Favor clarity over cleverness. Everything here should be usable, repeatable, and grounded in real workflows.
+### Practice 
+Avoid throwaway work. Favor clarity over cleverness. Everything here should be usable, repeatable, and grounded in real workflows.
